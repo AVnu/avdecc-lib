@@ -48,4 +48,11 @@ bin
 *.orig
 *.o
 
+*.cmake
+*Makefile
+*CMakeFiles/
+CMakeCache.txt
+controller/app/cmdline/avdecccmdline
+
+
 
